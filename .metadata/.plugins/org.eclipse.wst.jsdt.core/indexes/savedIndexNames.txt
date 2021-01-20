@@ -1,0 +1,7 @@
+INDEX VERSION 1.4+C:\Users\DOVAL\Desktop\FP\Bernaldo\2º\DAWEB\2 trimestre\Biblioteca JAVA\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+2665560819.index
+1204385438.index
+12581656.index
+191108956.index
+2731717457.index
+3575310563.index
