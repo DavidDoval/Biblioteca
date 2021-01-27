@@ -1,0 +1,3 @@
+INDEX VERSION 1.131
+C:\Users\DOVAL\Desktop\FP\Bernaldo\2º\DAWEB\2 trimestre\Biblioteca JAVA\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\768575282.index
+\Biblioteca\src
